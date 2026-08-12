@@ -8,13 +8,14 @@ import { ArrowRight } from "lucide-react";
 import React from "react";
 
 const links = [
-  { label: "UTMfy", url: "https://app.utmify.com.br/dashboards/69e43570a62db66aa662c8e8/resumo/" },
+  { label: "UTMify", url: "https://app.utmify.com.br/dashboards/69e43570a62db66aa662c8e8/resumo/" },
   { label: "AdSparo", url: "https://adsparo.com/overview/login.php" },
   { label: "imgBB", url: "https://imgbb.com/" },
   { label: "Removedor de Marca D'água", url: "https://ezremove.ai/video-watermark-remover/" },
   { label: "Agente de Criativos", url: "https://chatgpt.com/g/g-694936786a6c8191b5b7431ce9a914dc-ideator-ia-de-criativos" },
   { label: "Agente de Prompt Scale", url: "https://chatgpt.com/g/g-68f40e6eede48191842a4842792fac53-mega-prompter-do-lona" },
   { label: "Agente de Prompt", url: "https://chatgpt.com/g/g-693e8458ca98819193c88e92b9dbe9e8-black-nexus" },
+  { label: "Agente Lovable", url: "https://chatgpt.com/g/g-691debba7cec8191bb72a0bd2561f0a6-lovable-builder" },
   { label: "Clonador de Páginas", url: "https://saveweb2zip.com/en" },
 ];
 
