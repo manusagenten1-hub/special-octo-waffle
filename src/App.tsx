@@ -17,6 +17,11 @@ const links = [
   { label: "Agente de Prompt", url: "https://chatgpt.com/g/g-693e8458ca98819193c88e92b9dbe9e8-black-nexus" },
   { label: "Agente Lovable", url: "https://chatgpt.com/g/g-691debba7cec8191bb72a0bd2561f0a6-lovable-builder" },
   { label: "Clonador de Páginas", url: "https://saveweb2zip.com/en" },
+  { label: "Agente de Influencers", url: "https://chatgpt.com/g/g-6999afaae9dc8191aa79f19d495d7330-criador-de-ref-de-influencer-azevedo-academy" },
+  { label: "Agente de Copy", url: "https://chatgpt.com/g/g-69493864eb3c8191accb8192cf4f7573-adcopy" },
+  { label: "Transformador WebP", url: "https://squoosh.app/" },
+  { label: "Biblioteca ADS", url: "https://business.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&sort_data[mode]=total_impressions&sort_data[direction]=desc" },
+  { label: "Stoat", url: "https://stt.gg/JRT7nwgn" },
 ];
 
 export default function App() {
